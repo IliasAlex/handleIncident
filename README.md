@@ -1,2 +1,3 @@
 # handleIncident
-Κατασκευή προγράμματος που θα αποθηκεύει συμβάντα και θα υπολογίζει στοιχεία για το Missing Migrants project.
+
+Building a program that will store events and calculate data for the Missing Migrants project.
